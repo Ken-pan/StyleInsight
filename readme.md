@@ -14,16 +14,7 @@ StyleInsight is a powerful Chrome extension that allows users to uncover the fon
 StyleInsight respects user privacy and does not collect any user data. All operations and analyses performed by the extension are carried out locally on the user's device. No information is transmitted or stored externally. Your browsing experience remains private and secure.
 
 ## Installation
-
-To install StyleInsight, follow these steps:
-
-1. Open the Chrome browser.
-2. Go to the Chrome Web Store.
-3. Search for "StyleInsight" in the search bar.
-4. Click on the extension from the search results.
-5. Click the "Add to Chrome" button.
-6. A confirmation dialog will appear. Click "Add extension" to proceed with the installation.
-7. Once installed, the extension will appear in your Chrome toolbar.
+(The Extension haven't been published yet)
 
 ## How to Use
 
