@@ -3,7 +3,6 @@
   "name": "StyleInsight",
   "version": "0.0.1",
   "description": "Unveil website design secrets with StyleInsight. Discover fonts, colors, and insights. Perfect for designers & developers.",
-  "permissions": ["activeTab"],
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
@@ -30,7 +29,8 @@
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
-      "matches": ["<all_urls>"]
+      "matches": ["<all_urls>"],
+      "css": ["styleinsight.css"]
     }
   ]
 }
